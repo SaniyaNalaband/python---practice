@@ -7,31 +7,31 @@
 
 # 📚 Phase 1: Python Basics
 
-- [ ] 1. What is Python?
-- [ ] 2. Installing Python
-- [ ] 3. Installing VS Code
-- [ ] 4. Running Python Programs
-- [ ] 5. Python Interactive Shell (REPL)
-- [ ] 6. Writing Your First Program
-- [ ] 7. Comments
-- [ ] 8. Indentation
-- [ ] 9. Keywords
-- [ ] 10. Identifiers
-- [ ] 11. Variables
-- [ ] 12. Rules for Naming Variables
-- [ ] 13. Constants
-- [ ] 14. Input and Output
-- [ ] 15. print() Function
-- [ ] 16. input() Function
-- [ ] 17. Escape Characters
-- [ ] 18. Multiple Print Methods
-- [ ] 19. `sep` and `end` Parameters
-- [ ] 20. Type Conversion
-- [ ] 21. Type Casting
-- [ ] 22. Dynamic Typing
-- [ ] 23. `id()` Function
-- [ ] 24. `type()` Function
-- [ ] 25. Memory Basics
+- [x] 1. What is Python?
+- [x] 2. Installing Python
+- [x] 3. Installing VS Code
+- [x] 4. Running Python Programs
+- [x] 5. Python Interactive Shell (REPL)
+- [x] 6. Writing Your First Program
+- [x] 7. Comments
+- [x] 8. Indentation
+- [x] 9. Keywords
+- [x] 10. Identifiers
+- [x] 11. Variables
+- [x] 12. Rules for Naming Variables
+- [x] 13. Constants
+- [x] 14. Input and Output
+- [x] 15. print() Function
+- [x] 16. input() Function
+- [x] 17. Escape Characters
+- [x] 18. Multiple Print Methods
+- [x] 19. `sep` and `end` Parameters
+- [x] 20. Type Conversion
+- [x] 21. Type Casting
+- [x] 22. Dynamic Typing
+- [x] 23. `id()` Function
+- [x] 24. `type()` Function
+- [x] 25. Memory Basics
 
 ---
 
