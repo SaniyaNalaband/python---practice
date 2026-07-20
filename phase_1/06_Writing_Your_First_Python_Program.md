@@ -504,14 +504,14 @@ In this lesson you learned:
 
 # 🎯 Topic Completion Checklist
 
-- [ ] I created a `.py` file.
-- [ ] I wrote my first Python program.
-- [ ] I know what `print()` does.
-- [ ] I understand strings.
-- [ ] I completed all examples.
-- [ ] I completed the practice problems.
-- [ ] I completed the mini challenge.
-- [ ] I answered the interview questions.
+- [x] I created a `.py` file.
+- [x] I wrote my first Python program.
+- [x] I know what `print()` does.
+- [x] I understand strings.
+- [x] I completed all examples.
+- [x] I completed the practice problems.
+- [x] I completed the mini challenge.
+- [x] I answered the interview questions.
 
 ---
 
