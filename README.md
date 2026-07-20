@@ -38,18 +38,18 @@
 # 🔢 Phase 2: Data Types
 
 ## Numbers
-- [ ] int
-- [ ] float
-- [ ] complex
+- [x] int
+- [x] float
+- [x] complex
 
 ## Boolean
-- [ ] bool
+- [x] bool
 
 ## Text
-- [ ] str
+- [x] str
 
 ## Collections
-- [ ] list
+- [x] list
 - [ ] tuple
 - [ ] set
 - [ ] frozenset
