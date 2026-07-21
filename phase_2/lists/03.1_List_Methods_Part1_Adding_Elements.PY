@@ -141,7 +141,7 @@ numbers.insert(100, 3)
 print(numbers)
 
 numbers = [10, 20, 40]
-numbers.insert(-1, 30)
+numbers.insert(-1, 30) # ---> python reads it as insert befor -1 i.e [10,20,30,40]
 print(numbers)
 
 numbers = [20, 30, 40]
