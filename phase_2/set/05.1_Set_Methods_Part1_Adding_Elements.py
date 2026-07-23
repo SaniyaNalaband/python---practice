@@ -25,3 +25,13 @@ print(data)
 items = {"Apple"}
 items.add(("Banana", "Mango"))
 print(items)
+
+
+a = {1, 2}
+b = {3, 4}
+a.update(b)
+print(a)
+
+numbers = {1, 2}
+numbers.update((3, 4))
+print(numbers)
