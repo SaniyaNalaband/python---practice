@@ -50,10 +50,10 @@
 
 ## Collections
 - [x] list
-- [ ] tuple
-- [ ] set
-- [ ] frozenset
-- [ ] dict
+- [x] tuple
+- [x] set
+- [x] frozenset
+- [x] dict
 
 ## Binary Types
 - [ ] bytes
