@@ -584,6 +584,3 @@ These methods are essential for text processing and are widely used in real-worl
 
 ---
 
-# 📚 Next Lesson
-
-➡️ **Part 4: Cleaning & Alignment Methods**

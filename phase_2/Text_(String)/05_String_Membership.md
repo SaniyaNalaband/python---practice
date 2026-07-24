@@ -504,6 +504,3 @@ In this lesson, you learned:
 
 ---
 
-# 📚 Next Lesson
-
-➡️ **Part 6: String Concatenation**

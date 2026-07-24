@@ -500,6 +500,3 @@ In this lesson, you learned:
 
 ---
 
-# 📚 Next Lesson
-
-➡️ **Part 4: Negative Indexing**

@@ -468,6 +468,3 @@ You learned:
 
 ---
 
-# 📚 Next Lesson
-
-➡️ **Set – Part 2: Set Characteristics**

@@ -422,6 +422,3 @@ You learned:
 
 ---
 
-# 📚 Next Lesson
-
-➡️ **Tuple – Part 2: Tuple Characteristics**

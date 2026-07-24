@@ -602,6 +602,3 @@ These methods are essential for validating and processing text in Python.
 
 ---
 
-# 📚 Next Lesson
-
-➡️ **Phase 2: Collections – List Data Type**

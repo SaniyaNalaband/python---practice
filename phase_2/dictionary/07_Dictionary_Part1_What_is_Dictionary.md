@@ -561,6 +561,3 @@ You learned:
 
 ---
 
-# 📚 Next Lesson
-
-➡️ **Dictionary – Part 2: Dictionary Methods (`get()`, `keys()`, `values()`, `items()`, `update()`, `pop()`, `popitem()`, `clear()`, `copy()`, `setdefault()`, `fromkeys()`, etc.)**

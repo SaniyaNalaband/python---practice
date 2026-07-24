@@ -573,6 +573,3 @@ These are among the most commonly used string methods in Python.
 
 ---
 
-# 📚 Next Lesson
-
-➡️ **Part 3: Replace & Split Methods**

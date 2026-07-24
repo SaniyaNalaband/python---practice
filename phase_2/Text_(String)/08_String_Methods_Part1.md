@@ -275,6 +275,4 @@ print("Casefold   :", text.casefold())
 
 ---
 
-# 📚 Next Lesson
 
-➡️ **String Methods – Part 2: Searching & Counting**

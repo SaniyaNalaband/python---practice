@@ -576,6 +576,3 @@ These methods are commonly used for cleaning text and creating well-formatted ou
 
 ---
 
-# 📚 Next Lesson
-
-➡️ **Part 5: String Checking Methods (`is...()` Methods)**

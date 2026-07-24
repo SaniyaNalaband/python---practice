@@ -405,6 +405,3 @@ You learned:
 
 ---
 
-# 📚 Next Lesson
-
-➡️ **Part 7: `str.format()` Method**

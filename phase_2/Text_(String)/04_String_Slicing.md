@@ -630,6 +630,3 @@ You learned:
 
 ---
 
-# 📚 Next Lesson
-
-➡️ **Part 5: String Immutability**
