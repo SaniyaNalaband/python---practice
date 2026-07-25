@@ -56,12 +56,12 @@
 - [x] dict
 
 ## Binary Types
-- [ ] bytes
-- [ ] bytearray
-- [ ] memoryview
+- [x] bytes
+- [x] bytearray
+- [x] memoryview
 
 ## Special Type
-- [ ] None
+- [x] None
 
 ---
 
