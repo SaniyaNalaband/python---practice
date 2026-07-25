@@ -65,59 +65,8 @@
 
 ---
 
-# 🔤 Phase 3: Strings
 
-- [ ] Creating Strings
-- [ ] Indexing
-- [ ] Negative Indexing
-- [ ] Slicing
-- [ ] Step Slicing
-- [ ] String Length
-- [ ] Membership Operators
-- [ ] String Traversal
-- [ ] String Immutability
-- [ ] String Formatting
-- [ ] f-Strings
-- [ ] `format()` Method
-- [ ] %-Formatting
-- [ ] Escape Sequences
-
-## String Methods
-
-- [ ] upper()
-- [ ] lower()
-- [ ] capitalize()
-- [ ] title()
-- [ ] swapcase()
-- [ ] casefold()
-- [ ] strip()
-- [ ] lstrip()
-- [ ] rstrip()
-- [ ] replace()
-- [ ] split()
-- [ ] join()
-- [ ] find()
-- [ ] index()
-- [ ] count()
-- [ ] startswith()
-- [ ] endswith()
-- [ ] isalpha()
-- [ ] isdigit()
-- [ ] isalnum()
-- [ ] isspace()
-- [ ] isnumeric()
-- [ ] center()
-- [ ] ljust()
-- [ ] rjust()
-- [ ] zfill()
-- [ ] partition()
-- [ ] rpartition()
-- [ ] encode()
-- [ ] expandtabs()
-
----
-
-# ➕ Phase 4: Operators
+# ➕ Phase 3: Operators
 
 - [ ] Arithmetic Operators
 - [ ] Assignment Operators
@@ -130,7 +79,7 @@
 
 ---
 
-# 🔀 Phase 5: Conditional Statements
+# 🔀 Phase 4: Conditional Statements
 
 - [ ] if
 - [ ] if-else
@@ -141,7 +90,7 @@
 
 ---
 
-# 🔁 Phase 6: Loops
+# 🔁 Phase 5: Loops
 
 - [ ] while Loop
 - [ ] for Loop
@@ -155,7 +104,7 @@
 
 ---
 
-# 📦 Phase 7: Collections
+# 📦 Phase 6: Collections
 
 ## Lists
 - [ ] Creating Lists
@@ -188,7 +137,7 @@
 
 ---
 
-# 🔧 Phase 8: Functions
+# 🔧 Phase 7: Functions
 
 - [ ] Defining Functions
 - [ ] Calling Functions
@@ -214,7 +163,7 @@
 
 ---
 
-# 📁 Phase 9: Modules & Packages
+# 📁 Phase 8: Modules & Packages
 
 - [ ] Import Statement
 - [ ] Creating Modules
@@ -227,7 +176,7 @@
 
 ---
 
-# ⚠️ Phase 10: Exception Handling
+# ⚠️ Phase 9: Exception Handling
 
 - [ ] try
 - [ ] except
@@ -239,7 +188,7 @@
 
 ---
 
-# 📂 Phase 11: File Handling
+# 📂 Phase 10: File Handling
 
 - [ ] Opening Files
 - [ ] Reading Files
@@ -253,7 +202,7 @@
 
 ---
 
-# 🧱 Phase 12: Object-Oriented Programming (OOP)
+# 🧱 Phase 11: Object-Oriented Programming (OOP)
 
 - [ ] Classes
 - [ ] Objects
@@ -278,7 +227,7 @@
 
 ---
 
-# ⚡ Phase 13: Advanced Python
+# ⚡ Phase 12: Advanced Python
 
 - [ ] Iterators
 - [ ] Generators
@@ -297,7 +246,7 @@
 
 ---
 
-# ⚙️ Phase 14: Concurrency
+# ⚙️ Phase 13: Concurrency
 
 - [ ] Threading
 - [ ] Multiprocessing
@@ -306,7 +255,7 @@
 
 ---
 
-# 🌐 Phase 15: Working with the Operating System
+# 🌐 Phase 14: Working with the Operating System
 
 - [ ] os Module
 - [ ] shutil
@@ -317,7 +266,7 @@
 
 ---
 
-# 🗄️ Phase 16: Databases
+# 🗄️ Phase 15: Databases
 
 - [ ] SQLite
 - [ ] MySQL with Python
@@ -327,7 +276,7 @@
 
 ---
 
-# 🌍 Phase 17: Networking
+# 🌍 Phase 16: Networking
 
 - [ ] HTTP Basics
 - [ ] requests Library
@@ -339,7 +288,7 @@
 
 ---
 
-# 📊 Phase 18: Data Analysis
+# 📊 Phase 17: Data Analysis
 
 - [ ] NumPy
 - [ ] Pandas
@@ -350,7 +299,7 @@
 
 ---
 
-# 🤖 Phase 19: Machine Learning Basics
+# 🤖 Phase 18: Machine Learning Basics
 
 - [ ] Scikit-learn
 - [ ] Regression
@@ -360,7 +309,7 @@
 
 ---
 
-# 🌐 Phase 20: Web Development
+# 🌐 Phase 19: Web Development
 
 - [ ] Flask
 - [ ] Django
@@ -370,7 +319,7 @@
 
 ---
 
-# 🧪 Phase 21: Testing
+# 🧪 Phase 20: Testing
 
 - [ ] unittest
 - [ ] pytest
@@ -379,7 +328,7 @@
 
 ---
 
-# 🚀 Phase 22: Professional Python
+# 🚀 Phase 21: Professional Python
 
 - [ ] PEP 8
 - [ ] Type Hints
@@ -392,7 +341,7 @@
 
 ---
 
-# 💻 Phase 23: Git & GitHub for Python
+# 💻 Phase 22: Git & GitHub for Python
 
 - [ ] Git Basics
 - [ ] GitHub
@@ -403,7 +352,7 @@
 
 ---
 
-# 🏗️ Phase 24: Projects
+# 🏗️ Phase 23: Projects
 
 ## Beginner
 - [ ] Calculator
@@ -432,7 +381,7 @@
 
 ---
 
-# 🏆 Phase 25: Interview & Problem Solving
+# 🏆 Phase 24: Interview & Problem Solving
 
 - [ ] Time Complexity (Big O)
 - [ ] Space Complexity
@@ -448,3 +397,4 @@
 ## 🎯 Goal
 
 Complete every checkbox and become a professional Python developer. 🚀
+
