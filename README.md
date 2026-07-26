@@ -68,14 +68,14 @@
 
 # ➕ Phase 3: Operators
 
-- [ ] Arithmetic Operators
-- [ ] Assignment Operators
-- [ ] Comparison Operators
-- [ ] Logical Operators
-- [ ] Identity Operators
-- [ ] Membership Operators
-- [ ] Bitwise Operators
-- [ ] Operator Precedence
+- [x] Arithmetic Operators
+- [x] Assignment Operators
+- [x] Comparison Operators
+- [x] Logical Operators
+- [x] Identity Operators
+- [x] Membership Operators
+- [x] Bitwise Operators
+- [x] Operator Precedence
 
 ---
 
