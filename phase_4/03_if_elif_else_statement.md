@@ -1,6 +1,6 @@
 # 🐍 Python Master Course
 
-> **Phase 4:** Control Flow (Decision Making)  
+> **Phase 4:** Conditional statements 
 > **Topic 3:** `if...elif...else` Statement
 
 **Difficulty:** ⭐⭐ Beginner → ⭐⭐⭐ Intermediate

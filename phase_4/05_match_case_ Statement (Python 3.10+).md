@@ -1,6 +1,6 @@
 # 🐍 Python Master Course
 
-> **Phase 4:** Control Flow (Decision Making)  
+> **Phase 4:** Conditional statements
 > **Topic 5:** `match...case` Statement (Python 3.10+)
 
 **Difficulty:** ⭐⭐⭐ Intermediate

@@ -219,7 +219,39 @@ match signal:
 
 
 
+color  ='Blue'
+match color:
+    case "redf":
+        print('stop')
+    case 'blue':
+        print('sky')
+    case _:
+        print('unknown')
 
+
+
+operator = "*"
+match operator:
+    case "+":
+        print(2+5)
+    case "-":
+        print(2-6)
+    case"*":
+        print('4*6')
+    case _:
+        print('invalid')
+
+
+
+
+month = 12
+match month:
+    case 12|1|2:
+        print('winter')
+    case 3|4|5:
+        print('summer')
+    case _:
+        print('other season')
 
 
 
