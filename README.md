@@ -81,12 +81,12 @@
 
 # 🔀 Phase 4: Conditional Statements
 
-- [ ] if
-- [ ] if-else
-- [ ] if-elif-else
-- [ ] Nested if
-- [ ] Match Case (Python 3.10+)
-- [ ] Ternary Operator
+- [x] if
+- [x] if-else
+- [x] if-elif-else
+- [x] Nested if
+- [x] Match Case (Python 3.10+)
+- [x] Ternary Operator
 
 ---
 
