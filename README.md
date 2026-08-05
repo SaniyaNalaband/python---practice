@@ -92,15 +92,15 @@
 
 # 🔁 Phase 5: Loops
 
-- [ ] while Loop
-- [ ] for Loop
-- [ ] Nested Loops
-- [ ] Infinite Loops
-- [ ] break
-- [ ] continue
-- [ ] pass
-- [ ] else with Loop
-- [ ] range()
+- [x] while Loop
+- [x] for Loop
+- [x] Nested Loops
+- [x] Infinite Loops
+- [x] break
+- [x] continue
+- [x] pass
+- [x] else with Loop
+- [x] range()
 
 ---
 
