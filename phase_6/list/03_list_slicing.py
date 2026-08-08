@@ -67,3 +67,5 @@ player1 = cards[:26]
 player2 = cards[26:]
 print(player1)
 print(player2)
+
+
