@@ -667,12 +667,12 @@ Write programs to:
 
 # 📝 Assignment
 
-- [ ] Find the index of an element using `index()`.
-- [ ] Find the number of occurrences using `count()`.
-- [ ] Check whether an element exists using `in`.
-- [ ] Check whether an element does not exist using `not in`.
-- [ ] Handle a value that doesn't exist before using `index()`.
-- [ ] Create a real-world program using all three.
+- [x] Find the index of an element using `index()`.
+- [x] Find the number of occurrences using `count()`.
+- [x] Check whether an element exists using `in`.
+- [x] Check whether an element does not exist using `not in`.
+- [x] Handle a value that doesn't exist before using `index()`.
+- [x] Create a real-world program using all three.
 
 ---
 
@@ -709,13 +709,13 @@ numbers.count(20)
 
 # 🎯 Topic Completion Checklist
 
-- [ ] I understand `index()`.
-- [ ] I understand `count()`.
-- [ ] I understand the `in` operator.
-- [ ] I understand `not in`.
-- [ ] I know the difference between all three.
-- [ ] I completed the practice programs.
-- [ ] I completed the assignment.
+- [x] I understand `index()`.
+- [x] I understand `count()`.
+- [x] I understand the `in` operator.
+- [x] I understand `not in`.
+- [x] I know the difference between all three.
+- [x] I completed the practice programs.
+- [x] I completed the assignment.
 
 ---
 
