@@ -107,23 +107,23 @@
 # 📦 Phase 6: Collections
 
 ## Lists
-- [ ] Creating Lists
-- [ ] Indexing
-- [ ] Slicing
-- [ ] List Methods
-- [ ] Nested Lists
-- [ ] Copying Lists
-- [ ] List Comprehension
+- [x] Creating Lists
+- [x] Indexing
+- [x] Slicing
+- [x] List Methods
+- [x] Nested Lists
+- [x] Copying Lists
+- [x] List Comprehension
 
 ## Tuples
-- [ ] Creating Tuples
-- [ ] Packing
-- [ ] Unpacking
-- [ ] Tuple Methods
+- [x] Creating Tuples
+- [x] Packing
+- [x] Unpacking
+- [x] Tuple Methods
 
 ## Sets
-- [ ] Creating Sets
-- [ ] Set Operations
+- [x] Creating Sets
+- [x] Set Operations
 - [ ] Set Methods
 - [ ] Frozen Sets
 
