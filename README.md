@@ -124,8 +124,8 @@
 ## Sets
 - [x] Creating Sets
 - [x] Set Operations
-- [ ] Set Methods
-- [ ] Frozen Sets
+- [x] Set Methods
+- [x] Frozen Sets
 
 ## Dictionaries
 - [ ] Creating Dictionaries
