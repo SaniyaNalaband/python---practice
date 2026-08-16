@@ -49,13 +49,13 @@ print(student)
 
 Output:
 
-```text id="q7h4j1"
+```text 
 {'name': 'Saniya', 'age': 20, 'course': 'BCA'}
 ```
 
 Here:
 
-```text id="u9r3qv"
+```text
 "name"   → "Saniya"
 "age"    → 20
 "course" → "BCA"
@@ -71,13 +71,13 @@ The right side is the **value**.
 
 A dictionary stores information like this:
 
-```text id="v6o5ek"
+```text 
 key → value
 ```
 
 Example:
 
-```python id="j9k4e2"
+```python 
 student = {
     "name": "Saniya",
     "age": 20
@@ -86,7 +86,7 @@ student = {
 
 Here:
 
-```text id="m5w7tq"
+```text 
 "name" → "Saniya"
 "age"  → 20
 ```
@@ -104,7 +104,7 @@ So:
 
 The basic syntax is:
 
-```python id="g3k8pd"
+```python 
 dictionary_name = {
     key: value,
     key: value
@@ -113,7 +113,7 @@ dictionary_name = {
 
 Example:
 
-```python id="1b2y4a"
+```python 
 student = {
     "name": "Saniya",
     "age": 20,
@@ -129,7 +129,7 @@ A **key** is used to identify a value inside a dictionary.
 
 Example:
 
-```python id="2l1z4v"
+```python
 student = {
     "name": "Saniya",
     "age": 20
@@ -138,27 +138,27 @@ student = {
 
 Keys are:
 
-```text id="qj5s1c"
+```text 
 name
 age
 ```
 
 Values are:
 
-```text id="w0w5c7"
+```text 
 Saniya
 20
 ```
 
 Think of it like a real dictionary:
 
-```text id="b7w1ka"
+```text 
 Word → Meaning
 ```
 
 Python dictionary:
 
-```text id="7x4g0q"
+```text 
 Key → Value
 ```
 
@@ -166,7 +166,7 @@ Key → Value
 
 # 💡 5. Simple Dictionary Example
 
-```python id="g8t6cw"
+```python 
 person = {
     "name": "Asha",
     "age": 21,
@@ -178,7 +178,7 @@ print(person)
 
 Output:
 
-```text id="9s7q5d"
+```text 
 {'name': 'Asha', 'age': 21, 'city': 'Bengaluru'}
 ```
 
@@ -188,7 +188,7 @@ Output:
 
 You can create an empty dictionary using `{}`.
 
-```python id="6v0q4m"
+```python
 student = {}
 
 print(student)
@@ -208,7 +208,7 @@ The dictionary currently contains no key-value pairs.
 
 You can use `type()` to check whether an object is a dictionary.
 
-```python id="k7y4t3"
+```python 
 student = {}
 
 print(type(student))
@@ -216,7 +216,7 @@ print(type(student))
 
 Output:
 
-```text id="c4x8s2"
+```text 
 <class 'dict'>
 ```
 
@@ -226,7 +226,7 @@ Output:
 
 This is an important beginner concept.
 
-```python id="x1v5k9"
+```python 
 data = {}
 ```
 
@@ -236,19 +236,19 @@ It does NOT create an empty set.
 
 To create an empty set:
 
-```python id="p4n8z6"
+```python 
 data = set()
 ```
 
 To create an empty dictionary:
 
-```python id="t3m7q2"
+```python 
 data = {}
 ```
 
 Remember:
 
-```text id="5d8h1r"
+```text
 {}       → Empty dictionary
 set()    → Empty set
 ```
@@ -259,7 +259,7 @@ set()    → Empty set
 
 A dictionary can contain many key-value pairs.
 
-```python id="q5w8e1"
+```python
 student = {
     "name": "Saniya",
     "age": 20,
@@ -279,7 +279,7 @@ Each pair is separated by a comma.
 
 Dictionary values can have different data types.
 
-```python id="h3v7k2"
+```python 
 student = {
     "name": "Saniya",
     "age": 20,
@@ -292,7 +292,7 @@ print(student)
 
 Here:
 
-```text id="k8m1z5"
+```text
 "name"       → string
 "age"        → integer
 "percentage" → float
@@ -305,7 +305,7 @@ Here:
 
 A dictionary value can also be a list.
 
-```python id="p8r3w6"
+```python 
 student = {
     "name": "Saniya",
     "skills": ["Python", "SQL", "Git"]
@@ -316,7 +316,7 @@ print(student)
 
 Output:
 
-```text id="a6n4c2"
+```text 
 {'name': 'Saniya', 'skills': ['Python', 'SQL', 'Git']}
 ```
 
@@ -324,7 +324,7 @@ Output:
 
 # 📦 12. Dictionary Values Can Be Tuples
 
-```python id="d7q2m9"
+```python 
 student = {
     "name": "Asha",
     "coordinates": (12.97, 77.59)
@@ -335,7 +335,7 @@ print(student)
 
 Output:
 
-```text id="v1f8x4"
+```text 
 {'name': 'Asha', 'coordinates': (12.97, 77.59)}
 ```
 
@@ -360,7 +360,7 @@ The value can be a set.
 
 A dictionary can contain another dictionary as a value.
 
-```python id="y4t8p1"
+```python 
 student = {
     "name": "Asha",
     "address": {
@@ -384,7 +384,7 @@ Dictionary keys must be **hashable**.
 
 Common examples of valid keys include:
 
-```python id="n2f7c4"
+```python 
 data = {
     "name": "Asha",
     1: "One",
@@ -404,7 +404,7 @@ Strings, integers, floats, booleans, and tuples can be used as keys when they ar
 
 This is invalid:
 
-```python id="k5r8v2"
+```python
 data = {
     [1, 2, 3]: "Numbers"
 }
@@ -442,7 +442,7 @@ Therefore, dictionary keys need to be hashable.
 
 Simple rule:
 
-```text id="a7m2x5"
+```text 
 Hashable
    ↓
 Can generally be used as a dictionary key
@@ -454,7 +454,7 @@ Cannot be used as a dictionary key
 
 Examples:
 
-```text id="c9v4n6"
+```text 
 String     → ✅
 Integer    → ✅
 Float      → ✅
@@ -473,7 +473,7 @@ Dictionary keys do not have to be strings.
 
 You can use integers.
 
-```python id="w3k8p5"
+```python 
 marks = {
     1: 85,
     2: 90,
@@ -485,7 +485,7 @@ print(marks)
 
 Here:
 
-```text id="y6r1t4"
+```text
 1 → 85
 2 → 90
 3 → 78
@@ -497,7 +497,7 @@ Here:
 
 String keys are the most common type of dictionary key.
 
-```python id="q9m5v2"
+```python 
 student = {
     "name": "Asha",
     "course": "BCA",
@@ -511,7 +511,7 @@ student = {
 
 Python allows different hashable types as keys.
 
-```python id="x4c7n8"
+```python i
 data = {
     "name": "Asha",
     1: "One",
@@ -532,7 +532,7 @@ Dictionary keys must be unique.
 
 Consider:
 
-```python id="e8k2r6"
+```python 
 student = {
     "name": "Asha",
     "age": 20,
@@ -544,7 +544,7 @@ print(student)
 
 Output:
 
-```text id="b3m7q9"
+```text 
 {'name': 'Neha', 'age': 20}
 ```
 
@@ -570,7 +570,7 @@ print(data)
 
 Output:
 
-```text id="s2q6m4"
+```text
 {'score': 90}
 ```
 
@@ -584,7 +584,7 @@ Keys must be unique, but values do not need to be unique.
 
 Example:
 
-```python id="j8p4w2"
+```python 
 students = {
     "student1": "Python",
     "student2": "Python",
@@ -598,7 +598,7 @@ This is perfectly valid.
 
 Here:
 
-```text id="r6n1y5"
+```text 
 Keys   → Unique
 Values → Can repeat
 ```
@@ -609,7 +609,7 @@ Values → Can repeat
 
 A dictionary is excellent for representing structured information.
 
-```python id="u7c3m9"
+```python 
 student = {
     "name": "Asha",
     "age": 20,
@@ -627,7 +627,7 @@ This is much easier to understand than storing unrelated values separately.
 
 # 🌍 26. Real-World Example: Product
 
-```python id="p4k8s2"
+```python 
 product = {
     "name": "Laptop",
     "brand": "Dell",
@@ -644,7 +644,7 @@ The dictionary represents information about a product.
 
 # 🌍 27. Real-World Example: Employee
 
-```python id="n6w3q9"
+```python 
 employee = {
     "id": 101,
     "name": "Asha",
@@ -659,7 +659,7 @@ print(employee)
 
 # 🌍 28. Real-World Example: Mobile Phone
 
-```python id="x8r5m1"
+```python 
 phone = {
     "brand": "Samsung",
     "model": "Galaxy",
@@ -674,7 +674,7 @@ print(phone)
 
 # 🌍 29. Real-World Example: Book
 
-```python id="c2v7k4"
+```python 
 book = {
     "title": "Python Basics",
     "author": "John Smith",
@@ -693,7 +693,7 @@ You can also create a dictionary using the built-in `dict()` function.
 
 Example:
 
-```python id="m5q8w3"
+```python 
 student = dict(
     name="Asha",
     age=20,
@@ -705,7 +705,7 @@ print(student)
 
 Output:
 
-```text id="h7n2c6"
+```text 
 {'name': 'Asha', 'age': 20, 'course': 'BCA'}
 ```
 
@@ -715,13 +715,13 @@ Output:
 
 The basic syntax is:
 
-```python id="k9r4v1"
+```python 
 dict(**kwargs)
 ```
 
 Example:
 
-```python id="t6p3x8"
+```python
 person = dict(
     name="Neha",
     age=21,
@@ -739,7 +739,7 @@ Both can create dictionaries.
 
 ### Using `{}`
 
-```python id="f2m7q5"
+```python 
 student = {
     "name": "Asha",
     "age": 20
@@ -748,7 +748,7 @@ student = {
 
 ### Using `dict()`
 
-```python id="z8c4n1"
+```python 
 student = dict(
     name="Asha",
     age=20
@@ -763,7 +763,7 @@ Both create dictionaries.
 
 The `{}` syntax is commonly used when you want to write key-value pairs directly.
 
-```python id="v5k2r7"
+```python
 student = {
     "name": "Asha",
     "age": 20,
@@ -785,7 +785,7 @@ It is clear and easy to read.
 
 Example:
 
-```python id="q4w8m3"
+```python
 student = dict(
     name="Asha",
     age=20
@@ -800,7 +800,7 @@ You can create a dictionary from a sequence of key-value pairs.
 
 Example:
 
-```python id="y7n2p5"
+```python 
 student = dict([
     ("name", "Asha"),
     ("age", 20),
@@ -812,13 +812,13 @@ print(student)
 
 Output:
 
-```text id="c3v8k1"
+```text 
 {'name': 'Asha', 'age': 20, 'course': 'BCA'}
 ```
 
 Each tuple contains:
 
-```text id="m6q4r9"
+```text 
 (key, value)
 ```
 
@@ -826,7 +826,7 @@ Each tuple contains:
 
 # 🧩 36. Creating a Dictionary from a List of Tuples
 
-```python id="r1t7w5"
+```python 
 data = [
     ("Python", 90),
     ("SQL", 85),
@@ -840,7 +840,7 @@ print(marks)
 
 Output:
 
-```text id="x4p9c2"
+```text 
 {'Python': 90, 'SQL': 85, 'Git': 80}
 ```
 
@@ -864,13 +864,13 @@ print(student)
 
 Output:
 
-```text id="q5m7r1"
+```text
 {'name': 'Asha', 'age': 20, 'course': 'BCA'}
 ```
 
 Here:
 
-```text id="w2c8p4"
+```text 
 name   → Asha
 age    → 20
 course → BCA
@@ -884,7 +884,7 @@ course → BCA
 
 Example:
 
-```python id="f6v1k9"
+```python 
 keys = ["name", "age"]
 
 values = ["Asha", 20]
@@ -900,7 +900,7 @@ Output:
 
 Then:
 
-```python id="k7m2q4"
+```python 
 student = dict(zip(keys, values))
 ```
 
@@ -948,7 +948,7 @@ print(student)
 
 Output:
 
-```text id="q6n3v8"
+```text
 {'name': None, 'age': None, 'course': None}
 ```
 
@@ -958,7 +958,7 @@ Output:
 
 You can provide a value for all keys.
 
-```python id="t8p2k5"
+```python 
 subjects = ["Python", "SQL", "Git"]
 
 marks = dict.fromkeys(subjects, 0)
@@ -982,7 +982,7 @@ There are several ways to create dictionaries.
 
 ### Method 1: Curly Braces
 
-```python id="q7w3n8"
+```python "
 student = {
     "name": "Asha",
     "age": 20
@@ -1009,7 +1009,7 @@ student = dict([
 
 ### Method 4: `zip()`
 
-```python id="c4t8m2"
+```python 
 keys = ["name", "age"]
 values = ["Asha", 20]
 
@@ -1018,7 +1018,7 @@ student = dict(zip(keys, values))
 
 ### Method 5: `fromkeys()`
 
-```python id="r6w1q9"
+```python 
 keys = ["name", "age"]
 
 student = dict.fromkeys(keys)
@@ -1044,7 +1044,7 @@ student = dict.fromkeys(keys)
 
 Wrong:
 
-```python id="f5r8k2"
+```python 
 student = {
     "name" "Asha",
     "age" 20
@@ -1053,7 +1053,7 @@ student = {
 
 Correct:
 
-```python id="m7q3v9"
+```python 
 student = {
     "name": "Asha",
     "age": 20
@@ -1062,7 +1062,7 @@ student = {
 
 The colon separates the key and value:
 
-```text id="z1c6w4"
+```text 
 key : value
 ```
 
@@ -1072,7 +1072,7 @@ key : value
 
 Wrong:
 
-```python id="u8n2p5"
+```python 
 student = {
     "name" = "Asha"
 }
@@ -1080,7 +1080,7 @@ student = {
 
 Correct:
 
-```python id="j4r7m1"
+```python 
 student = {
     "name": "Asha"
 }
@@ -1092,7 +1092,7 @@ student = {
 
 Wrong:
 
-```python id="k3v9q6"
+```python 
 data = {
     [1, 2]: "Numbers"
 }
@@ -1164,7 +1164,7 @@ The colon `:` is the key difference.
 
 # 🌍 46. Real-World Example: Student Record
 
-```python id="x5p8n2"
+```python
 student = {
     "id": 101,
     "name": "Asha",
@@ -1186,7 +1186,7 @@ This dictionary represents a complete student record.
 
 # 🌍 47. Real-World Example: Product Record
 
-```python id="r3m7v1"
+```python 
 product = {
     "id": 501,
     "name": "Laptop",
@@ -1202,7 +1202,7 @@ print(product)
 
 # 🌍 48. Real-World Example: Employee Record
 
-```python id="q8c2k5"
+```python 
 employee = {
     "employee_id": 1001,
     "name": "Neha",
@@ -1222,7 +1222,7 @@ print(employee)
 
 ### Program 1: Create a Student Dictionary
 
-```python id="w4n8p2"
+```python 
 student = {
     "name": "Asha",
     "age": 20,
@@ -1236,7 +1236,7 @@ print(student)
 
 ### Program 2: Create a Product Dictionary
 
-```python id="m6r1v9"
+```python 
 product = {
     "name": "Laptop",
     "price": 50000,
@@ -1250,7 +1250,7 @@ print(product)
 
 ### Program 3: Create an Empty Dictionary
 
-```python id="t2q7k4"
+```python 
 data = {}
 
 print(data)
@@ -1261,7 +1261,7 @@ print(type(data))
 
 ### Program 4: Dictionary with Different Value Types
 
-```python id="p9c5x3"
+```python 
 data = {
     "name": "Asha",
     "age": 20,
@@ -1278,7 +1278,7 @@ print(data)
 
 ### Program 5: Dictionary Using `dict()`
 
-```python id="v7m2r8"
+```python 
 student = dict(
     name="Asha",
     age=20,
@@ -1292,7 +1292,7 @@ print(student)
 
 ### Program 6: Dictionary from Tuples
 
-```python id="k4n8w1"
+```python
 data = [
     ("Python", 90),
     ("SQL", 85),
@@ -1308,7 +1308,7 @@ print(marks)
 
 ### Program 7: Dictionary Using `zip()`
 
-```python id="q3p6t9"
+```python 
 keys = ["name", "age", "course"]
 
 values = ["Asha", 20, "BCA"]
@@ -1322,7 +1322,7 @@ print(student)
 
 ### Program 8: Dictionary Using `fromkeys()`
 
-```python id="r8c1m5"
+```python
 subjects = ["Python", "SQL", "Git"]
 
 marks = dict.fromkeys(subjects, 0)
@@ -1336,7 +1336,7 @@ print(marks)
 
 ## Program 9: Student Database Record
 
-```python id="x7v3k2"
+```python 
 student = {
     "id": 101,
     "name": "Asha",
@@ -1358,7 +1358,7 @@ print(student)
 
 ## Program 10: Creating Multiple Student Records
 
-```python id="n5q8r4"
+```python 
 students = {
     "student1": {
         "name": "Asha",
@@ -1384,7 +1384,7 @@ Create a dictionary representing a product.
 
 It should contain:
 
-```text id="u2m7c9"
+```text 
 product_id
 name
 brand
@@ -1397,7 +1397,7 @@ features
 
 Example structure:
 
-```python id="f6p1x8"
+```python 
 product = {
     "product_id": 101,
     "name": "Laptop",
@@ -1437,7 +1437,7 @@ Your dictionary should contain:
 
 Example:
 
-```python id="z4r8m2"
+```python
 student = {
     "student_id": 101,
     "name": "Asha",
@@ -1521,7 +1521,7 @@ storage
 
 ### Task 3
 
-Create an empty dictionary and verify its type using `type()`.
+Create an empty dictionary and verify its type using `type()`. 
 
 ---
 
@@ -1541,7 +1541,7 @@ Create a dictionary from a list of tuples.
 
 Create two lists:
 
-```python id="n6q3w8"
+```python
 keys = [...]
 values = [...]
 ```
@@ -1622,7 +1622,7 @@ The colon `:` separates the key and value.
 
 Remember the uniqueness rule:
 
-```text id="w5c9n3"
+```text
 Keys   → Must be unique
 Values → Can be duplicated
 ```
@@ -1690,7 +1690,7 @@ Values → Can be duplicated
 
 ### Basic Dictionary
 
-```python id="p7v3k9"
+```python 
 student = {
     "name": "Asha",
     "age": 20
@@ -1699,13 +1699,13 @@ student = {
 
 ### Empty Dictionary
 
-```python id="c4m8r1"
+```python 
 student = {}
 ```
 
 ### Using `dict()`
 
-```python id="x6q2w5"
+```python
 student = dict(
     name="Asha",
     age=20
@@ -1714,7 +1714,7 @@ student = dict(
 
 ### From Tuples
 
-```python id="n9t4k7"
+```python 
 student = dict([
     ("name", "Asha"),
     ("age", 20)
@@ -1723,7 +1723,7 @@ student = dict([
 
 ### Using `zip()`
 
-```python id="m3p8v2"
+```python 
 keys = ["name", "age"]
 values = ["Asha", 20]
 
@@ -1792,29 +1792,29 @@ In this lesson, you learned:
 
 # 🎯 Topic Completion Checklist
 
-* [ ] I know what a dictionary is.
-* [ ] I understand key-value pairs.
-* [ ] I can create a dictionary using `{}`.
-* [ ] I can create an empty dictionary.
-* [ ] I know the difference between `{}` and `set()`.
-* [ ] I understand dictionary keys.
-* [ ] I understand dictionary values.
-* [ ] I know that dictionary keys must be unique.
-* [ ] I understand duplicate keys.
-* [ ] I know that values can be duplicated.
-* [ ] I understand which types can be dictionary keys.
-* [ ] I understand why lists cannot be dictionary keys.
-* [ ] I understand why sets cannot be dictionary keys.
-* [ ] I can create dictionaries using `dict()`.
-* [ ] I can create dictionaries from tuples.
-* [ ] I can use `zip()` to create a dictionary.
-* [ ] I understand `dict.fromkeys()`.
-* [ ] I can create real-world dictionaries.
-* [ ] I understand the difference between dictionaries and sets.
-* [ ] I completed all practice programs.
-* [ ] I completed the challenge.
-* [ ] I completed the assignment.
-* [ ] I can create dictionaries without looking at my notes.
+* [x] I know what a dictionary is.
+* [x] I understand key-value pairs.
+* [x] I can create a dictionary using `{}`.
+* [x] I can create an empty dictionary.
+* [x] I know the difference between `{}` and `set()`.
+* [x] I understand dictionary keys.
+* [x] I understand dictionary values.
+* [x] I know that dictionary keys must be unique.
+* [x] I understand duplicate keys.
+* [x] I know that values can be duplicated.
+* [x] I understand which types can be dictionary keys.
+* [x] I understand why lists cannot be dictionary keys.
+* [x] I understand why sets cannot be dictionary keys.
+* [x] I can create dictionaries using `dict()`.
+* [x] I can create dictionaries from tuples.
+* [x] I can use `zip()` to create a dictionary.
+* [x] I understand `dict.fromkeys()`.
+* [x] I can create real-world dictionaries.
+* [x] I understand the difference between dictionaries and sets.
+* [x] I completed all practice programs.
+* [x] I completed the challenge.
+* [x] I completed the assignment.
+* [x] I can create dictionaries without looking at my notes.
 
 ---
 
