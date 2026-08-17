@@ -128,12 +128,12 @@
 - [x] Frozen Sets
 
 ## Dictionaries
-- [ ] Creating Dictionaries
-- [ ] Accessing Values
-- [ ] Updating
-- [ ] Dictionary Methods
-- [ ] Nested Dictionaries
-- [ ] Dictionary Comprehension
+- [x] Creating Dictionaries
+- [x] Accessing Values
+- [x] Updating
+- [x] Dictionary Methods
+- [x] Nested Dictionaries
+- [x] Dictionary Comprehension
 
 ---
 
