@@ -200,4 +200,28 @@ student_information()
 
 
 def display_employee():
-    pass
+    employee_id = 'A101'
+    employee_name = 'Jhon'
+    department = 'Full stack'
+    print(f'employe id is : {employee_id} \nemployee name is : {employee_name}\ndepartment : {department} ')
+
+def calculate_salary():
+    basic_salary = 30000
+    bonous_Salary = 300
+    total_salary = basic_salary+bonous_Salary
+    print(f'salary is : {total_salary}')
+
+def check_experience():
+    experience = 3 
+    if experience >=2 :
+        print('You are elligible')
+    else:
+        print('you are not elligible')
+
+
+display_employee()
+calculate_salary()
+check_experience()
+
+
+

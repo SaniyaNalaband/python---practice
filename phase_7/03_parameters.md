@@ -2804,35 +2804,35 @@ In this lesson, you learned:
 
 # 🎯 Topic Completion Checklist
 
-* [ ] I understand what parameters are.
-* [ ] I understand what arguments are.
-* [ ] I understand the difference between parameters and arguments.
-* [ ] I can create functions with parameters.
-* [ ] I can use multiple parameters.
-* [ ] I understand positional arguments.
-* [ ] I understand keyword arguments.
-* [ ] I can mix positional and keyword arguments correctly.
-* [ ] I can use default parameters.
-* [ ] I understand the order of parameters.
-* [ ] I can pass lists to functions.
-* [ ] I can pass tuples to functions.
-* [ ] I can pass dictionaries to functions.
-* [ ] I can use parameters with conditions.
-* [ ] I can use parameters with loops.
-* [ ] I can use parameters with return values.
-* [ ] I understand `*args`.
-* [ ] I understand `**kwargs`.
-* [ ] I understand the difference between `*args` and `**kwargs`.
-* [ ] I understand positional-only parameters.
-* [ ] I understand keyword-only parameters.
-* [ ] I understand parameter scope.
-* [ ] I understand mutable default parameter problems.
-* [ ] I can use parameters with `input()`.
-* [ ] I can use parameters in real-world programs.
-* [ ] I completed all practice programs.
-* [ ] I completed the challenge.
-* [ ] I completed the assignment.
-* [ ] I can use function parameters without looking at my notes.
+* [x] I understand what parameters are.
+* [x] I understand what arguments are.
+* [x] I understand the difference between parameters and arguments.
+* [x] I can create functions with parameters.
+* [x] I can use multiple parameters.
+* [x] I understand positional arguments.
+* [x] I understand keyword arguments.
+* [x] I can mix positional and keyword arguments correctly.
+* [x] I can use default parameters.
+* [x] I understand the order of parameters.
+* [x] I can pass lists to functions.
+* [x] I can pass tuples to functions.
+* [x] I can pass dictionaries to functions.
+* [x] I can use parameters with conditions.
+* [x] I can use parameters with loops.
+* [x] I can use parameters with return values.
+* [x] I understand `*args`.
+* [x] I understand `**kwargs`.
+* [x] I understand the difference between `*args` and `**kwargs`.
+* [x] I understand positional-only parameters.
+* [x] I understand keyword-only parameters.
+* [x] I understand parameter scope.
+* [x] I understand mutable default parameter problems.
+* [x] I can use parameters with `input()`.
+* [x] I can use parameters in real-world programs.
+* [x] I completed all practice programs.
+* [x] I completed the challenge.
+* [x] I completed the assignment.
+* [x] I can use function parameters without looking at my notes.
 
 ---
 

@@ -2475,32 +2475,32 @@ In this lesson, you learned:
 
 # 🎯 Topic Completion Checklist
 
-* [ ] I understand what calling a function means.
-* [ ] I understand the difference between defining and calling a function.
-* [ ] I know how to call a function.
-* [ ] I understand why parentheses are used.
-* [ ] I can call a function without arguments.
-* [ ] I can call a function with arguments.
-* [ ] I understand parameters and arguments.
-* [ ] I understand positional arguments.
-* [ ] I understand keyword arguments.
-* [ ] I can call a function using variables.
-* [ ] I can call a function using expressions.
-* [ ] I can call a function multiple times.
-* [ ] I can call a function inside `print()`.
-* [ ] I can call a function inside an `if` condition.
-* [ ] I can call a function inside a loop.
-* [ ] I can call one function from another.
-* [ ] I understand nested function calls.
-* [ ] I can store a returned value.
-* [ ] I can call functions using user input.
-* [ ] I can pass lists to functions.
-* [ ] I can pass dictionaries to functions.
-* [ ] I understand common function-calling errors.
-* [ ] I completed all practice programs.
-* [ ] I completed the challenge.
-* [ ] I completed the assignment.
-* [ ] I can call functions without looking at my notes.
+* [x] I understand what calling a function means.
+* [x] I understand the difference between defining and calling a function.
+* [x] I know how to call a function.
+* [x] I understand why parentheses are used.
+* [x] I can call a function without arguments.
+* [x] I can call a function with arguments.
+* [x] I understand parameters and arguments.
+* [x] I understand positional arguments.
+* [x] I understand keyword arguments.
+* [x] I can call a function using variables.
+* [x] I can call a function using expressions.
+* [x] I can call a function multiple times.
+* [x] I can call a function inside `print()`.
+* [x] I can call a function inside an `if` condition.
+* [x] I can call a function inside a loop.
+* [x] I can call one function from another.
+* [x] I understand nested function calls.
+* [x] I can store a returned value.
+* [x] I can call functions using user input.
+* [x] I can pass lists to functions.
+* [x] I can pass dictionaries to functions.
+* [x] I understand common function-calling errors.
+* [x] I completed all practice programs.
+* [x] I completed the challenge.
+* [x] I completed the assignment.
+* [x] I can call functions without looking at my notes.
 
 ---
 
