@@ -2713,35 +2713,35 @@ In this lesson, you learned:
 
 # 🎯 Topic Completion Checklist
 
-* [ ] I understand what arguments are.
-* [ ] I understand the difference between parameters and arguments.
-* [ ] I can use positional arguments.
-* [ ] I can use keyword arguments.
-* [ ] I understand positional vs keyword arguments.
-* [ ] I can use default arguments.
-* [ ] I understand how default arguments work.
-* [ ] I can pass lists as arguments.
-* [ ] I can pass tuples as arguments.
-* [ ] I can pass dictionaries as arguments.
-* [ ] I understand `*args`.
-* [ ] I understand that `*args` creates a tuple.
-* [ ] I understand `**kwargs`.
-* [ ] I understand that `**kwargs` creates a dictionary.
-* [ ] I can combine `*args` and `**kwargs`.
-* [ ] I understand keyword-only arguments.
-* [ ] I understand positional-only arguments.
-* [ ] I understand `/`.
-* [ ] I understand `*` for keyword-only parameters.
-* [ ] I can unpack lists and tuples using `*`.
-* [ ] I can unpack dictionaries using `**`.
-* [ ] I can combine arguments with loops.
-* [ ] I can combine arguments with conditions.
-* [ ] I can use arguments with return values.
-* [ ] I completed all practice programs.
-* [ ] I completed the challenge.
-* [ ] I completed the mini project.
-* [ ] I completed the assignment.
-* [ ] I can use different argument types without looking at my notes.
+* [x] I understand what arguments are.
+* [x] I understand the difference between parameters and arguments.
+* [x] I can use positional arguments.
+* [x] I can use keyword arguments.
+* [x] I understand positional vs keyword arguments.
+* [x] I can use default arguments.
+* [x] I understand how default arguments work.
+* [x] I can pass lists as arguments.
+* [x] I can pass tuples as arguments.
+* [x] I can pass dictionaries as arguments.
+* [x] I understand `*args`.
+* [x] I understand that `*args` creates a tuple.
+* [x] I understand `**kwargs`.
+* [x] I understand that `**kwargs` creates a dictionary.
+* [x] I can combine `*args` and `**kwargs`.
+* [x] I understand keyword-only arguments.
+* [x] I understand positional-only arguments.
+* [x] I understand `/`.
+* [x] I understand `*` for keyword-only parameters.
+* [x] I can unpack lists and tuples using `*`.
+* [x] I can unpack dictionaries using `**`.
+* [x] I can combine arguments with loops.
+* [x] I can combine arguments with conditions.
+* [x] I can use arguments with return values.
+* [x] I completed all practice programs.
+* [x] I completed the challenge.
+* [x] I completed the mini project.
+* [x] I completed the assignment.
+* [x] I can use different argument types without looking at my notes.
 
 ---
 

@@ -2602,7 +2602,7 @@ Dictionary
 ```text
 1. Parameters are variables defined inside a function definition.
 
-2. Arguments are actual values passed during a function call.
+2. Arguments are actual values passed during a function call.-
 
 3. Positional arguments are assigned according to position.
 

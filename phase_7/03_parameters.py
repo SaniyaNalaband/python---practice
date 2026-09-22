@@ -189,3 +189,51 @@ def Show(name,*skills,**details):
     print('Details :', details)
 Show('Asiya',["Python","SQL","HTML"],city='Bengaluru', course = "BCA")
 
+
+
+
+# def student_result(name,marks):
+#     if marks >=45:
+#         print(f'{name} is passed!')
+
+#     else:
+#         print('Btter luck next time!!')
+
+# marks = int(input('enter the marks : '))
+# name =  input('Enter your name : ') 
+# student_result(name,marks)
+
+
+
+def example(name,city='Begluru',*skills,**marks):
+    return f"{name}\n{city}\n{skills}\n{marks}"
+example('sana','Bengluru','html,css,python', python=99,html=95,SQl=98)
+
+
+
+def food_order(customer,item,quantity,delivery='Home',*extras,):
+    total = quantity*100
+    if extras:
+        total += len(extras)*10
+        return f"Customer : {customer}\nItem : {item}\nDeliver : {delivery}\nExtras : {extras}\nTotal : {total}"
+
+print(food_order('Riya','Pizza',2,'Home',"Cheese", "Olives"))
+
+
+def list(*numbers):
+    limit = 50
+    for number in numbers:
+        if number>limit:
+          print(number)
+list(100,98,97,44,34,60,34,56)
+
+
+
+def students(**details):
+    for key,value in details.items():
+        print(f'{key} : {value}')
+
+students(name="Sana",age=21,course="BCA",city='Bengluru')
+
+
+
