@@ -2057,14 +2057,14 @@ employee = {
 
 Your program should:
 
-* [ ] Define a function with appropriate parameters.
-* [ ] Call the function using keyword arguments.
-* [ ] Change the order of keyword arguments.
-* [ ] Use a default value for location.
-* [ ] Override the default location.
-* [ ] Store employee information in a dictionary.
-* [ ] Pass the dictionary using `**`.
-* [ ] Display the complete employee information.
+* [x] Define a function with appropriate parameters.
+* [x] Call the function using keyword arguments.
+* [x] Change the order of keyword arguments.
+* [x] Use a default value for location.
+* [x] Override the default location.
+* [x] Store employee information in a dictionary.
+* [x] Pass the dictionary using `**`.
+* [x] Display the complete employee information.
 
 ### Your Goal
 
@@ -2644,30 +2644,30 @@ In this lesson, you learned:
 
 # 🎯 Topic Completion Checklist
 
-* [ ] I understand what keyword arguments are.
-* [ ] I understand the difference between positional and keyword arguments.
-* [ ] I can call a function using keyword arguments.
-* [ ] I can change the order of keyword arguments.
-* [ ] I understand why positional arguments must come first.
-* [ ] I can mix positional and keyword arguments correctly.
-* [ ] I understand keyword arguments with default parameters.
-* [ ] I can override default values using keyword arguments.
-* [ ] I understand invalid keyword names.
-* [ ] I understand duplicate argument errors.
-* [ ] I understand keyword-only arguments.
-* [ ] I can use `*` to create keyword-only parameters.
-* [ ] I understand `**kwargs`.
-* [ ] I can use `**kwargs` in functions.
-* [ ] I understand that `**kwargs` creates a dictionary.
-* [ ] I understand `*args` and `**kwargs`.
-* [ ] I can use both `*args` and `**kwargs`.
-* [ ] I can unpack a dictionary using `**`.
-* [ ] I can use keyword arguments with built-in functions.
-* [ ] I can use keyword arguments in real-world programs.
-* [ ] I completed all practice programs.
-* [ ] I completed the challenge.
-* [ ] I completed the assignment.
-* [ ] I can use keyword arguments without looking at my notes.
+* [x] I understand what keyword arguments are.
+* [x] I understand the difference between positional and keyword arguments.
+* [x] I can call a function using keyword arguments.
+* [x] I can change the order of keyword arguments.
+* [x] I understand why positional arguments must come first.
+* [x] I can mix positional and keyword arguments correctly.
+* [x] I understand keyword arguments with default parameters.
+* [x] I can override default values using keyword arguments.
+* [x] I understand invalid keyword names.
+* [x] I understand duplicate argument errors.
+* [x] I understand keyword-only arguments.
+* [x] I can use `*` to create keyword-only parameters.
+* [x] I understand `**kwargs`.
+* [x] I can use `**kwargs` in functions.
+* [x] I understand that `**kwargs` creates a dictionary.
+* [x] I understand `*args` and `**kwargs`.
+* [x] I can use both `*args` and `**kwargs`.
+* [x] I can unpack a dictionary using `**`.
+* [x] I can use keyword arguments with built-in functions.
+* [x] I can use keyword arguments in real-world programs.
+* [x] I completed all practice programs.
+* [x] I completed the challenge.
+* [x] I completed the assignment.
+* [x] I can use keyword arguments without looking at my notes.
 
 ---
 

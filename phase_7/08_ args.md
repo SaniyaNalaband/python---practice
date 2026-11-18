@@ -491,7 +491,7 @@ display("Python", "SQL", "Git", "HTML")
 ```
 
 Output:
-
+ 
 ```text
 ('SQL', 'Git', 'HTML')
 ```
@@ -2569,31 +2569,31 @@ In this lesson, you learned:
 
 # 🎯 Topic Completion Checklist
 
-* [ ] I understand what `*args` means.
-* [ ] I understand why `*args` is used.
-* [ ] I understand variable-length positional arguments.
-* [ ] I know that `args` is a tuple.
-* [ ] I can create a function using `*args`.
-* [ ] I can pass zero arguments to `*args`.
-* [ ] I can pass multiple arguments to `*args`.
-* [ ] I can loop through `args`.
-* [ ] I can use indexing with `args`.
-* [ ] I can use slicing with `args`.
-* [ ] I can use `sum()` with `args`.
-* [ ] I can use `max()` and `min()` with `args`.
-* [ ] I can use conditions with `*args`.
-* [ ] I can combine normal parameters with `*args`.
-* [ ] I understand packing.
-* [ ] I understand unpacking.
-* [ ] I can unpack a list using `*`.
-* [ ] I can unpack a tuple using `*`.
-* [ ] I understand the difference between `*args` and `**kwargs`.
-* [ ] I can use `*args` in real-world examples.
-* [ ] I understand keyword-only parameters after `*args`.
-* [ ] I completed all practice programs.
-* [ ] I completed the challenge.
-* [ ] I completed the assignment.
-* [ ] I can use `*args` without looking at my notes.
+* [x] I understand what `*args` means.
+* [x] I understand why `*args` is used.
+* [x] I understand variable-length positional arguments.
+* [x] I know that `args` is a tuple.
+* [x] I can create a function using `*args`.
+* [x] I can pass zero arguments to `*args`.
+* [x] I can pass multiple arguments to `*args`.
+* [x] I can loop through `args`.
+* [x] I can use indexing with `args`.
+* [x] I can use slicing with `args`.
+* [x] I can use `sum()` with `args`.
+* [x] I can use `max()` and `min()` with `args`.
+* [x] I can use conditions with `*args`.
+* [x] I can combine normal parameters with `*args`.
+* [x] I understand packing.
+* [x] I understand unpacking.
+* [x] I can unpack a list using `*`.
+* [x] I can unpack a tuple using `*`.
+* [x] I understand the difference between `*args` and `**kwargs`.
+* [x] I can use `*args` in real-world examples.
+* [x] I understand keyword-only parameters after `*args`.
+* [x] I completed all practice programs.
+* [x] I completed the challenge.
+* [x] I completed the assignment.
+* [x] I can use `*args` without looking at my notes.
 
 ---
 

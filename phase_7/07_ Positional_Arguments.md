@@ -1,4 +1,4 @@
-# 🐍 Python Master Course
+                 # 🐍 Python Master Course
 
 # 📦 Phase 7: Functions
 
@@ -2097,31 +2097,31 @@ In this lesson, you learned:
 
 # 🎯 Topic Completion Checklist
 
-* [ ] I understand what positional arguments are.
-* [ ] I understand why they are called positional arguments.
-* [ ] I understand the difference between parameters and arguments.
-* [ ] I know how positional arguments are assigned.
-* [ ] I understand why order matters.
-* [ ] I can pass one positional argument.
-* [ ] I can pass multiple positional arguments.
-* [ ] I can use positional arguments with numbers.
-* [ ] I can use positional arguments with strings.
-* [ ] I can use positional arguments with different data types.
-* [ ] I can use positional arguments with return values.
-* [ ] I can use positional arguments with conditions.
-* [ ] I can use positional arguments with loops.
-* [ ] I can pass lists as positional arguments.
-* [ ] I can pass dictionaries as positional arguments.
-* [ ] I understand positional arguments with default parameters.
-* [ ] I understand positional and keyword arguments.
-* [ ] I know that positional arguments must come before keyword arguments.
-* [ ] I understand `*args`.
-* [ ] I can use `*args` to accept multiple positional arguments.
-* [ ] I understand common positional argument errors.
-* [ ] I completed all practice programs.
-* [ ] I completed the challenge.
-* [ ] I completed the assignment.
-* [ ] I can use positional arguments without looking at my notes.
+* [x] I understand what positional arguments are.
+* [x] I understand why they are called positional arguments.
+* [x] I understand the difference between parameters and arguments.
+* [x] I know how positional arguments are assigned.
+* [x] I understand why order matters.
+* [x] I can pass one positional argument.
+* [x] I can pass multiple positional arguments.
+* [x] I can use positional arguments with numbers.
+* [x] I can use positional arguments with strings.
+* [x] I can use positional arguments with different data types.
+* [x] I can use positional arguments with return values.
+* [x] I can use positional arguments with conditions.
+* [x] I can use positional arguments with loops.
+* [x] I can pass lists as positional arguments.
+* [x] I can pass dictionaries as positional arguments.
+* [x] I understand positional arguments with default parameters.
+* [x] I understand positional and keyword arguments.
+* [x] I know that positional arguments must come before keyword arguments.
+* [x] I understand `*args`.
+* [x] I can use `*args` to accept multiple positional arguments.
+* [x] I understand common positional argument errors.
+* [x] I completed all practice programs.
+* [x] I completed the challenge.
+* [x] I completed the assignment.
+* [x] I can use positional arguments without looking at my notes.
 
 ---
 

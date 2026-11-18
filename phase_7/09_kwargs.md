@@ -12,25 +12,25 @@
 
 By the end of this lesson, you will be able to:
 
-* [ ] Understand what `**kwargs` means in Python.
-* [ ] Understand why `**kwargs` is used in functions.
-* [ ] Understand the difference between `*args` and `**kwargs`.
-* [ ] Learn how keyword arguments are collected using `**kwargs`.
-* [ ] Understand that `kwargs` is stored as a dictionary.
-* [ ] Access values from `kwargs`.
-* [ ] Use `kwargs.keys()`.
-* [ ] Use `kwargs.values()`.
-* [ ] Use `kwargs.items()`.
-* [ ] Loop through `kwargs`.
-* [ ] Check whether a key exists in `kwargs`.
-* [ ] Use `**kwargs` with conditions.
-* [ ] Combine `*args` and `**kwargs`.
-* [ ] Understand argument unpacking using `**`.
-* [ ] Use `**kwargs` with dictionaries.
-* [ ] Understand the difference between `**kwargs` and a normal dictionary.
-* [ ] Use `**kwargs` in real-world applications.
-* [ ] Avoid common mistakes when using `**kwargs`.
-* [ ] Build flexible functions using `**kwargs`.
+- [ ] Understand what `**kwargs` means in Python.
+- [ ] Understand why `**kwargs` is used in functions.
+- [ ] Understand the difference between `*args` and `**kwargs`.
+- [ ] Learn how keyword arguments are collected using `**kwargs`.
+- [ ] Understand that `kwargs` is stored as a dictionary.
+- [ ] Access values from `kwargs`.
+- [ ] Use `kwargs.keys()`.
+- [ ] Use `kwargs.values()`.
+- [ ] Use `kwargs.items()`.
+- [ ] Loop through `kwargs`.
+- [ ] Check whether a key exists in `kwargs`.
+- [ ] Use `**kwargs` with conditions.
+- [ ] Combine `*args` and `**kwargs`.
+- [ ] Understand argument unpacking using `**`.
+- [ ] Use `**kwargs` with dictionaries.
+- [ ] Understand the difference between `**kwargs` and a normal dictionary.
+- [ ] Use `**kwargs` in real-world applications.
+- [ ] Avoid common mistakes when using `**kwargs`.
+- [ ] Build flexible functions using `**kwargs`.
 
 ---
 
@@ -1579,16 +1579,16 @@ Because `kwargs` is a dictionary, many dictionary methods work with it.
 
 | Dictionary Method | Can Be Used with `kwargs`? |
 | ----------------- | -------------------------- |
-| `get()`           | ✅                          |
-| `keys()`          | ✅                          |
-| `values()`        | ✅                          |
-| `items()`         | ✅                          |
-| `update()`        | ✅                          |
-| `pop()`           | ✅                          |
-| `popitem()`       | ✅                          |
-| `clear()`         | ✅                          |
-| `copy()`          | ✅                          |
-| `setdefault()`    | ✅                          |
+| `get()`           | ✅                         |
+| `keys()`          | ✅                         |
+| `values()`        | ✅                         |
+| `items()`         | ✅                         |
+| `update()`        | ✅                         |
+| `pop()`           | ✅                         |
+| `popitem()`       | ✅                         |
+| `clear()`         | ✅                         |
+| `copy()`          | ✅                         |
+| `setdefault()`    | ✅                         |
 
 Example:
 
@@ -2003,13 +2003,13 @@ Create a function that accepts employee information using `**kwargs`.
 
 The employee information can contain:
 
-* Employee ID
-* Name
-* Department
-* Salary
-* Experience
-* Location
-* Status
+- Employee ID
+- Name
+- Department
+- Salary
+- Experience
+- Location
+- Status
 
 Example:
 
@@ -2032,15 +2032,15 @@ def employee_management(**kwargs):
 
 Perform the following operations:
 
-* Display the employee name using `get()`.
-* Display all keys.
-* Display all values.
-* Display all key-value pairs.
-* Add `"location"` using `setdefault()`.
-* Add `"status"` using `update()`.
-* Check whether `"salary"` exists.
-* Display employees with salary greater than a specified amount.
-* Display the final employee information.
+- Display the employee name using `get()`.
+- Display all keys.
+- Display all values.
+- Display all key-value pairs.
+- Add `"location"` using `setdefault()`.
+- Add `"status"` using `update()`.
+- Check whether `"salary"` exists.
+- Display employees with salary greater than a specified amount.
+- Display the final employee information.
 
 ### Your Goal
 
@@ -2050,31 +2050,31 @@ Build a flexible employee management program using `**kwargs` and dictionary met
 
 # 🎤 62. Interview Questions
 
-* [ ] What is `**kwargs` in Python?
-* [ ] What does `kwargs` stand for?
-* [ ] Why are two asterisks used with `kwargs`?
-* [ ] What type of object is `kwargs`?
-* [ ] What is the difference between `*args` and `**kwargs`?
-* [ ] Can `**kwargs` accept positional arguments?
-* [ ] Can `**kwargs` accept keyword arguments?
-* [ ] Can a function have both `*args` and `**kwargs`?
-* [ ] Can a function have normal parameters and `**kwargs`?
-* [ ] What happens when no keyword arguments are passed?
-* [ ] How do you access a value from `kwargs`?
-* [ ] What is the difference between `kwargs["name"]` and `kwargs.get("name")`?
-* [ ] How do you get all keys from `kwargs`?
-* [ ] How do you get all values from `kwargs`?
-* [ ] How do you get key-value pairs from `kwargs`?
-* [ ] How do you loop through `kwargs`?
-* [ ] Can you modify `kwargs` inside a function?
-* [ ] Can dictionary methods be used with `kwargs`?
-* [ ] What does `**dictionary` do when calling a function?
-* [ ] What is dictionary unpacking?
-* [ ] How is `**kwargs` useful in real-world applications?
-* [ ] What is the difference between `kwargs` and a normal dictionary?
-* [ ] Can `**kwargs` receive zero keyword arguments?
-* [ ] Can `**kwargs` receive one keyword argument?
-* [ ] Can `**kwargs` receive unlimited keyword arguments?
+- [ ] What is `**kwargs` in Python?
+- [ ] What does `kwargs` stand for?
+- [ ] Why are two asterisks used with `kwargs`?
+- [ ] What type of object is `kwargs`?
+- [ ] What is the difference between `*args` and `**kwargs`?
+- [ ] Can `**kwargs` accept positional arguments?
+- [ ] Can `**kwargs` accept keyword arguments?
+- [ ] Can a function have both `*args` and `**kwargs`?
+- [ ] Can a function have normal parameters and `**kwargs`?
+- [ ] What happens when no keyword arguments are passed?
+- [ ] How do you access a value from `kwargs`?
+- [ ] What is the difference between `kwargs["name"]` and `kwargs.get("name")`?
+- [ ] How do you get all keys from `kwargs`?
+- [ ] How do you get all values from `kwargs`?
+- [ ] How do you get key-value pairs from `kwargs`?
+- [ ] How do you loop through `kwargs`?
+- [ ] Can you modify `kwargs` inside a function?
+- [ ] Can dictionary methods be used with `kwargs`?
+- [ ] What does `**dictionary` do when calling a function?
+- [ ] What is dictionary unpacking?
+- [ ] How is `**kwargs` useful in real-world applications?
+- [ ] What is the difference between `kwargs` and a normal dictionary?
+- [ ] Can `**kwargs` receive zero keyword arguments?
+- [ ] Can `**kwargs` receive one keyword argument?
+- [ ] Can `**kwargs` receive unlimited keyword arguments?
 
 ---
 
@@ -2510,64 +2510,64 @@ display(**student)
 
 In this lesson, you learned:
 
-* What `**kwargs` is.
-* What the term `kwargs` means.
-* Why two asterisks are used.
-* How `**kwargs` collects keyword arguments.
-* That `kwargs` is stored as a dictionary.
-* How to access values from `kwargs`.
-* How to safely access values using `get()`.
-* How to use `keys()`.
-* How to use `values()`.
-* How to use `items()`.
-* How to loop through `kwargs`.
-* How to check whether a key exists.
-* How to modify `kwargs`.
-* How to add and remove data from `kwargs`.
-* How to use dictionary methods with `kwargs`.
-* The difference between `*args` and `**kwargs`.
-* How to combine `*args` and `**kwargs`.
-* How to combine normal parameters with `**kwargs`.
-* How dictionary unpacking works using `**`.
-* How to pass dictionary data to a function.
-* How to use `**kwargs` with conditions.
-* How to process marks using `**kwargs`.
-* How to calculate totals and averages.
-* How to filter data using `kwargs`.
-* How to use `**kwargs` in real-world applications.
-* Common mistakes when using `**kwargs`.
-* How to build flexible functions using `**kwargs`.
+- What `**kwargs` is.
+- What the term `kwargs` means.
+- Why two asterisks are used.
+- How `**kwargs` collects keyword arguments.
+- That `kwargs` is stored as a dictionary.
+- How to access values from `kwargs`.
+- How to safely access values using `get()`.
+- How to use `keys()`.
+- How to use `values()`.
+- How to use `items()`.
+- How to loop through `kwargs`.
+- How to check whether a key exists.
+- How to modify `kwargs`.
+- How to add and remove data from `kwargs`.
+- How to use dictionary methods with `kwargs`.
+- The difference between `*args` and `**kwargs`.
+- How to combine `*args` and `**kwargs`.
+- How to combine normal parameters with `**kwargs`.
+- How dictionary unpacking works using `**`.
+- How to pass dictionary data to a function.
+- How to use `**kwargs` with conditions.
+- How to process marks using `**kwargs`.
+- How to calculate totals and averages.
+- How to filter data using `kwargs`.
+- How to use `**kwargs` in real-world applications.
+- Common mistakes when using `**kwargs`.
+- How to build flexible functions using `**kwargs`.
 
 ---
 
 # 🎯 Topic Completion Checklist
 
-* [ ] I understand what `**kwargs` means.
-* [ ] I understand why two asterisks are used.
-* [ ] I know that `kwargs` is a dictionary.
-* [ ] I understand keyword arguments.
-* [ ] I can create a function using `**kwargs`.
-* [ ] I can pass multiple keyword arguments.
-* [ ] I understand what happens when no keyword arguments are passed.
-* [ ] I can access values from `kwargs`.
-* [ ] I can use `get()` with `kwargs`.
-* [ ] I can use `keys()` with `kwargs`.
-* [ ] I can use `values()` with `kwargs`.
-* [ ] I can use `items()` with `kwargs`.
-* [ ] I can loop through `kwargs`.
-* [ ] I can use conditions with `kwargs`.
-* [ ] I can modify `kwargs`.
-* [ ] I understand the difference between `*args` and `**kwargs`.
-* [ ] I can combine `*args` and `**kwargs`.
-* [ ] I can combine normal parameters with `**kwargs`.
-* [ ] I understand dictionary unpacking.
-* [ ] I can pass a dictionary using `**`.
-* [ ] I understand the difference between `kwargs` and `**dictionary`.
-* [ ] I can use `**kwargs` in real-world programs.
-* [ ] I completed all practice programs.
-* [ ] I completed the challenge.
-* [ ] I completed the assignment.
-* [ ] I can use `**kwargs` without looking at my notes.
+- [ ] I understand what `**kwargs` means.
+- [ ] I understand why two asterisks are used.
+- [ ] I know that `kwargs` is a dictionary.
+- [ ] I understand keyword arguments.
+- [ ] I can create a function using `**kwargs`.
+- [ ] I can pass multiple keyword arguments.
+- [ ] I understand what happens when no keyword arguments are passed.
+- [ ] I can access values from `kwargs`.
+- [ ] I can use `get()` with `kwargs`.
+- [ ] I can use `keys()` with `kwargs`.
+- [ ] I can use `values()` with `kwargs`.
+- [ ] I can use `items()` with `kwargs`.
+- [ ] I can loop through `kwargs`.
+- [ ] I can use conditions with `kwargs`.
+- [ ] I can modify `kwargs`.
+- [ ] I understand the difference between `*args` and `**kwargs`.
+- [ ] I can combine `*args` and `**kwargs`.
+- [ ] I can combine normal parameters with `**kwargs`.
+- [ ] I understand dictionary unpacking.
+- [ ] I can pass a dictionary using `**`.
+- [ ] I understand the difference between `kwargs` and `**dictionary`.
+- [ ] I can use `**kwargs` in real-world programs.
+- [ ] I completed all practice programs.
+- [ ] I completed the challenge.
+- [ ] I completed the assignment.
+- [ ] I can use `**kwargs` without looking at my notes.
 
 ---
 
@@ -2577,29 +2577,29 @@ In this lesson, you learned:
 
 In the next topic, you will learn:
 
-* What function scope means.
-* What local scope is.
-* What global scope is.
-* Understanding local variables.
-* Understanding global variables.
-* Local vs global variables.
-* The `global` keyword.
-* Modifying global variables inside functions.
-* Nested function scope.
-* Understanding enclosing scope.
-* The LEGB rule.
-* Local, Enclosing, Global, and Built-in scopes.
-* Variable lifetime.
-* When local variables are created.
-* When local variables are destroyed.
-* Scope-related common mistakes.
-* Real-world examples.
-* Advanced scope concepts.
-* Practice programs.
-* Challenges.
+- What function scope means.
+- What local scope is.
+- What global scope is.
+- Understanding local variables.
+- Understanding global variables.
+- Local vs global variables.
+- The `global` keyword.
+- Modifying global variables inside functions.
+- Nested function scope.
+- Understanding enclosing scope.
+- The LEGB rule.
+- Local, Enclosing, Global, and Built-in scopes.
+- Variable lifetime.
+- When local variables are created.
+- When local variables are destroyed.
+- Scope-related common mistakes.
+- Real-world examples.
+- Advanced scope concepts.
+- Practice programs.
+- Challenges.
 
 ---
 
 ## ⭐ Quote of the Day
 
-> **"The power of `**kwargs` is flexibility — it allows a function to work with data that may change without changing the function itself."** 🐍📚
+> **"The power of `**kwargs` is flexibility — it allows a function to work with data that may change without changing the function itself."\*\* 🐍📚

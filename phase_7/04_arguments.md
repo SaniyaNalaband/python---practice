@@ -12,25 +12,25 @@
 
 By the end of this lesson, you will be able to:
 
-* [ ] Understand what arguments are in Python functions.
-* [ ] Understand the difference between parameters and arguments.
-* [ ] Understand positional arguments.
-* [ ] Understand keyword arguments.
-* [ ] Understand default arguments.
-* [ ] Understand variable-length arguments.
-* [ ] Use `*args` to accept multiple positional arguments.
-* [ ] Use `**kwargs` to accept multiple keyword arguments.
-* [ ] Understand positional-only arguments.
-* [ ] Understand keyword-only arguments.
-* [ ] Combine different types of arguments.
-* [ ] Understand argument order rules.
-* [ ] Pass different data types as arguments.
-* [ ] Pass lists, tuples, sets, and dictionaries as arguments.
-* [ ] Return results based on arguments.
-* [ ] Combine arguments with conditions and loops.
-* [ ] Use arguments in real-world applications.
-* [ ] Avoid common mistakes when passing arguments.
-* [ ] Build functions using flexible argument patterns.
+- [ ] Understand what arguments are in Python functions.
+- [ ] Understand the difference between parameters and arguments.
+- [ ] Understand positional arguments.
+- [ ] Understand keyword arguments.
+- [ ] Understand default arguments.
+- [ ] Understand variable-length arguments.
+- [ ] Use `*args` to accept multiple positional arguments.
+- [ ] Use `**kwargs` to accept multiple keyword arguments.
+- [ ] Understand positional-only arguments.
+- [ ] Understand keyword-only arguments.
+- [ ] Combine different types of arguments.
+- [ ] Understand argument order rules.
+- [ ] Pass different data types as arguments.
+- [ ] Pass lists, tuples, sets, and dictionaries as arguments.
+- [ ] Return results based on arguments.
+- [ ] Combine arguments with conditions and loops.
+- [ ] Use arguments in real-world applications.
+- [ ] Avoid common mistakes when passing arguments.
+- [ ] Build functions using flexible argument patterns.
 
 ---
 
@@ -2102,12 +2102,12 @@ Create a function that calculates a shopping cart total.
 
 The function should:
 
-* [ ] Accept multiple product prices using `*args`.
-* [ ] Calculate the total price.
-* [ ] Accept customer information using `**kwargs`.
-* [ ] Display customer details.
-* [ ] Display the total cart amount.
-* [ ] Return the total.
+- [x] Accept multiple product prices using `*args`.
+- [x] Calculate the total price.
+- [x] Accept customer information using `**kwargs`.
+- [x] Display customer details.
+- [x] Display the total cart amount.
+- [x] Return the total.
 
 Example:
 
@@ -2148,33 +2148,33 @@ Customer details
 
 # 🎤 71. Interview Questions
 
-* [ ] What are arguments in Python?
-* [ ] What is the difference between a parameter and an argument?
-* [ ] What are positional arguments?
-* [ ] What are keyword arguments?
-* [ ] What is the difference between positional and keyword arguments?
-* [ ] Can positional and keyword arguments be combined?
-* [ ] What rule must be followed when combining positional and keyword arguments?
-* [ ] What are default arguments?
-* [ ] Why are default arguments useful?
-* [ ] Can a default argument be overridden?
-* [ ] Why must required parameters come before default parameters?
-* [ ] What is `*args`?
-* [ ] What type of object does `*args` create?
-* [ ] What is `**kwargs`?
-* [ ] What type of object does `**kwargs` create?
-* [ ] What is the difference between `*args` and `**kwargs`?
-* [ ] Can `*args` and `**kwargs` be used together?
-* [ ] What are keyword-only arguments?
-* [ ] What are positional-only arguments?
-* [ ] What does `/` mean in a function definition?
-* [ ] What does `*` mean when used before keyword-only parameters?
-* [ ] What is argument unpacking?
-* [ ] How do you unpack a list into function arguments?
-* [ ] How do you unpack a dictionary into keyword arguments?
-* [ ] What happens if too few arguments are supplied?
-* [ ] What happens if too many arguments are supplied?
-* [ ] Why are arguments useful in reusable functions?
+- [ ] What are arguments in Python?
+- [ ] What is the difference between a parameter and an argument?
+- [ ] What are positional arguments?
+- [ ] What are keyword arguments?
+- [ ] What is the difference between positional and keyword arguments?
+- [ ] Can positional and keyword arguments be combined?
+- [ ] What rule must be followed when combining positional and keyword arguments?
+- [ ] What are default arguments?
+- [ ] Why are default arguments useful?
+- [ ] Can a default argument be overridden?
+- [ ] Why must required parameters come before default parameters?
+- [ ] What is `*args`?
+- [ ] What type of object does `*args` create?
+- [ ] What is `**kwargs`?
+- [ ] What type of object does `**kwargs` create?
+- [ ] What is the difference between `*args` and `**kwargs`?
+- [ ] Can `*args` and `**kwargs` be used together?
+- [ ] What are keyword-only arguments?
+- [ ] What are positional-only arguments?
+- [ ] What does `/` mean in a function definition?
+- [ ] What does `*` mean when used before keyword-only parameters?
+- [ ] What is argument unpacking?
+- [ ] How do you unpack a list into function arguments?
+- [ ] How do you unpack a dictionary into keyword arguments?
+- [ ] What happens if too few arguments are supplied?
+- [ ] What happens if too many arguments are supplied?
+- [ ] Why are arguments useful in reusable functions?
 
 ---
 
@@ -2408,7 +2408,7 @@ Keyword arguments
 Remember argument restrictions:
 
 ```text
-/ 
+/
 ↓
 Positional-only
 ```
@@ -2679,69 +2679,69 @@ Arguments  Arguments
 
 In this lesson, you learned:
 
-* What arguments are.
-* The difference between parameters and arguments.
-* How positional arguments work.
-* How keyword arguments work.
-* The difference between positional and keyword arguments.
-* How to combine positional and keyword arguments.
-* What default arguments are.
-* How default arguments provide fallback values.
-* How to override default arguments.
-* How to pass lists, tuples, sets, and dictionaries as arguments.
-* How arguments work with loops.
-* How arguments work with conditions.
-* What variable-length arguments are.
-* How to use `*args`.
-* Why `*args` creates a tuple.
-* How to use `**kwargs`.
-* Why `**kwargs` creates a dictionary.
-* How to combine `*args` and `**kwargs`.
-* How to use keyword-only arguments.
-* How to use positional-only arguments.
-* How `/` defines positional-only parameters.
-* How `*` defines keyword-only parameters.
-* How argument unpacking works.
-* How `*` unpacks lists and tuples.
-* How `**` unpacks dictionaries.
-* How arguments work with return values.
-* How to use arguments in real-world programs.
-* Common mistakes when passing arguments.
-* How to build flexible and reusable functions.
+- What arguments are.
+- The difference between parameters and arguments.
+- How positional arguments work.
+- How keyword arguments work.
+- The difference between positional and keyword arguments.
+- How to combine positional and keyword arguments.
+- What default arguments are.
+- How default arguments provide fallback values.
+- How to override default arguments.
+- How to pass lists, tuples, sets, and dictionaries as arguments.
+- How arguments work with loops.
+- How arguments work with conditions.
+- What variable-length arguments are.
+- How to use `*args`.
+- Why `*args` creates a tuple.
+- How to use `**kwargs`.
+- Why `**kwargs` creates a dictionary.
+- How to combine `*args` and `**kwargs`.
+- How to use keyword-only arguments.
+- How to use positional-only arguments.
+- How `/` defines positional-only parameters.
+- How `*` defines keyword-only parameters.
+- How argument unpacking works.
+- How `*` unpacks lists and tuples.
+- How `**` unpacks dictionaries.
+- How arguments work with return values.
+- How to use arguments in real-world programs.
+- Common mistakes when passing arguments.
+- How to build flexible and reusable functions.
 
 ---
 
 # 🎯 Topic Completion Checklist
 
-* [x] I understand what arguments are.
-* [x] I understand the difference between parameters and arguments.
-* [x] I can use positional arguments.
-* [x] I can use keyword arguments.
-* [x] I understand positional vs keyword arguments.
-* [x] I can use default arguments.
-* [x] I understand how default arguments work.
-* [x] I can pass lists as arguments.
-* [x] I can pass tuples as arguments.
-* [x] I can pass dictionaries as arguments.
-* [x] I understand `*args`.
-* [x] I understand that `*args` creates a tuple.
-* [x] I understand `**kwargs`.
-* [x] I understand that `**kwargs` creates a dictionary.
-* [x] I can combine `*args` and `**kwargs`.
-* [x] I understand keyword-only arguments.
-* [x] I understand positional-only arguments.
-* [x] I understand `/`.
-* [x] I understand `*` for keyword-only parameters.
-* [x] I can unpack lists and tuples using `*`.
-* [x] I can unpack dictionaries using `**`.
-* [x] I can combine arguments with loops.
-* [x] I can combine arguments with conditions.
-* [x] I can use arguments with return values.
-* [x] I completed all practice programs.
-* [x] I completed the challenge.
-* [x] I completed the mini project.
-* [x] I completed the assignment.
-* [x] I can use different argument types without looking at my notes.
+- [x] I understand what arguments are.
+- [x] I understand the difference between parameters and arguments.
+- [x] I can use positional arguments.
+- [x] I can use keyword arguments.
+- [x] I understand positional vs keyword arguments.
+- [x] I can use default arguments.
+- [x] I understand how default arguments work.
+- [x] I can pass lists as arguments.
+- [x] I can pass tuples as arguments.
+- [x] I can pass dictionaries as arguments.
+- [x] I understand `*args`.
+- [x] I understand that `*args` creates a tuple.
+- [x] I understand `**kwargs`.
+- [x] I understand that `**kwargs` creates a dictionary.
+- [x] I can combine `*args` and `**kwargs`.
+- [x] I understand keyword-only arguments.
+- [x] I understand positional-only arguments.
+- [x] I understand `/`.
+- [x] I understand `*` for keyword-only parameters.
+- [x] I can unpack lists and tuples using `*`.
+- [x] I can unpack dictionaries using `**`.
+- [x] I can combine arguments with loops.
+- [x] I can combine arguments with conditions.
+- [x] I can use arguments with return values.
+- [x] I completed all practice programs.
+- [x] I completed the challenge.
+- [x] I completed the mini project.
+- [x] I completed the assignment.
+- [x] I can use different argument types without looking at my notes.
 
 ---
 
@@ -2751,31 +2751,31 @@ In this lesson, you learned:
 
 In the next topic, you will learn:
 
-* What the `return` statement is.
-* Why functions return values.
-* Difference between `print()` and `return`.
-* Returning a single value.
-* Returning multiple values.
-* Returning strings.
-* Returning numbers.
-* Returning lists.
-* Returning tuples.
-* Returning dictionaries.
-* Returning Boolean values.
-* Returning calculated results.
-* Using returned values in variables.
-* Using returned values in conditions.
-* Using returned values in loops.
-* Returning from conditional statements.
-* Returning from nested functions.
-* Early `return`.
-* Returning `None`.
-* Multiple `return` statements.
-* Practical real-world examples.
-* Common mistakes with `return`.
-* Practice programs.
-* Challenges.
-* Mini projects.
+- What the `return` statement is.
+- Why functions return values.
+- Difference between `print()` and `return`.
+- Returning a single value.
+- Returning multiple values.
+- Returning strings.
+- Returning numbers.
+- Returning lists.
+- Returning tuples.
+- Returning dictionaries.
+- Returning Boolean values.
+- Returning calculated results.
+- Using returned values in variables.
+- Using returned values in conditions.
+- Using returned values in loops.
+- Returning from conditional statements.
+- Returning from nested functions.
+- Early `return`.
+- Returning `None`.
+- Multiple `return` statements.
+- Practical real-world examples.
+- Common mistakes with `return`.
+- Practice programs.
+- Challenges.
+- Mini projects.
 
 ---
 

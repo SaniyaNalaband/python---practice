@@ -13,7 +13,7 @@
 By the end of this lesson, you will be able to:
 
 * [ ] Understand what default arguments are.
-* [ ] Understand why default arguments are used.
+* [ ] Understand why default arguments are used. 
 * [ ] Understand the syntax of default arguments.
 * [ ] Create functions with default values.
 * [ ] Call functions with and without arguments.
@@ -2509,33 +2509,33 @@ In this lesson, you learned:
 
 # 🎯 Topic Completion Checklist
 
-* [ ] I understand what default arguments are.
-* [ ] I know why default arguments are used.
-* [ ] I can create a function with a default argument.
-* [ ] I can call a function without providing a default argument.
-* [ ] I can override a default value.
-* [ ] I understand required and default parameters.
-* [ ] I understand the correct order of parameters.
-* [ ] I can use multiple default arguments.
-* [ ] I can use positional arguments with defaults.
-* [ ] I can use keyword arguments with defaults.
-* [ ] I can skip a default argument using a keyword argument.
-* [ ] I understand how default values are evaluated.
-* [ ] I understand the mutable default argument problem.
-* [ ] I know why `None` is used for mutable defaults.
-* [ ] I can safely use a list inside a function.
-* [ ] I can safely use a dictionary inside a function.
-* [ ] I can safely use a set inside a function.
-* [ ] I can use default arguments with calculations.
-* [ ] I can use default arguments with loops.
-* [ ] I can use default arguments with conditions.
-* [ ] I can combine default arguments with `*args`.
-* [ ] I can combine default arguments with `**kwargs`.
-* [ ] I can use default arguments in real-world programs.
-* [ ] I completed all practice programs.
-* [ ] I completed the challenge.
-* [ ] I completed the assignment.
-* [ ] I can use default arguments without looking at my notes.
+* [x] I understand what default arguments are.
+* [x] I know why default arguments are used.
+* [x] I can create a function with a default argument.
+* [x] I can call a function without providing a default argument.
+* [x] I can override a default value.
+* [x] I understand required and default parameters.
+* [x] I understand the correct order of parameters.
+* [x] I can use multiple default arguments.
+* [x] I can use positional arguments with defaults.
+* [x] I can use keyword arguments with defaults.
+* [x] I can skip a default argument using a keyword argument.
+* [x] I understand how default values are evaluated.
+* [x] I understand the mutable default argument problem.
+* [x] I know why `None` is used for mutable defaults.
+* [x] I can safely use a list inside a function.
+* [x] I can safely use a dictionary inside a function.
+* [x] I can safely use a set inside a function.
+* [x] I can use default arguments with calculations.
+* [x] I can use default arguments with loops.
+* [x] I can use default arguments with conditions.
+* [x] I can combine default arguments with `*args`.
+* [x] I can combine default arguments with `**kwargs`.
+* [x] I can use default arguments in real-world programs.
+* [x] I completed all practice programs.
+* [x] I completed the challenge.
+* [x] I completed the assignment.
+* [x] I can use default arguments without looking at my notes.
 
 ---
 
